@@ -9,24 +9,38 @@ Project to build system that monitors speed via GPS
 The Speeding Detection System is designed to track a driver's speed and notify them when they cross a certain speed or when they are driving unsafely. The system records when a violation occurs for later viewing by anyone interested. GPS is used to calculate the speed a driver is moving by using two longitude and latitude measurements. An accelerometer is used to detect sharp turns. When a driver crosses a certain speed or turns too sharply, a speaker plays a warning and a time stamp is recorded onto an SD card. 
 An image of the system is shown below:
 
-{{/media/uploads/gotmilk/speeddetectionsystem.jpg}} 
+![system](images/speeddetectionsystem.jpg)
 
 ## Parts 
-* MBED\\
- {{/media/uploads/gotmilk/mbed.jpg|MBED|200|100}} 
-* BR-355 with RS-232 Breakout and PS/2 Breakout\\
- {{/media/uploads/gotmilk/gps.jpg|GPS|200|100}} \\
- {{/media/uploads/gotmilk/br355_optional_cable_sets.jpg|Bottom cable used|400|300}} 
-* MicroSD breakout board\\
- {{/media/uploads/gotmilk/microsd.jpg|microSD reader|200|100}} 
-* Speaker\\
- {{/media/uploads/gotmilk/speaker.jpg|Sparkfun Speaker|200|100}} 
-* LSM9DS1 IMU\\
- {{/media/uploads/gotmilk/imu.jpg|Accelerometer|200|100}} 
-* TPA2005D1 Class D Audio Amp\\
- {{/media/uploads/gotmilk/amp.jpg|Audio Amp|200|100}} 
-* uLCD-144-G2\\
- {{/media/uploads/gotmilk/ulcd.jpg|LCD|200|100}} \\
+* MBED
+
+![mbed](images/mbed.jpg)
+
+* BR-355 with RS-232 Breakout and PS/2 Breakout
+
+![gps](images/gps.jpg)
+![br35](images/br355_optional_cable_sets.jpg)
+
+* MicroSD breakout board
+
+![microsd](images/microsd.jpg)
+
+* Speaker
+
+![speaker](images/speaker.jpg)
+
+* LSM9DS1 IMU
+
+![IMU](images/imu.jpg)
+
+* TPA2005D1 Class D Audio Amp
+
+![Amp](images/amp.jpg)
+
+* uLCD-144-G2
+
+![uLCD](images/ulcd.jpg)
+
 * 5v External Power
 
 ## Wiring 
