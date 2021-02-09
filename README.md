@@ -1,5 +1,5 @@
 # SpeedingDetectionSystem
-Project to build system that monitors speed via GPS
+Project to build system that monitors speed via GPS on MBED
 
 ## Team Information 
 ### Saad Khan, Ibrahim Khan
